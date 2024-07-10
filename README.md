@@ -56,10 +56,10 @@ Desenvolver sistemas e aplicações web coesos, modernos, modulares e multiplata
 
 **Technical Computer Programming and specific Applications** (2016 - 2018)
 
-### Full Cycle, Brazil
+### Full Cycle, Brasil
 
 **Docker** (2023 - 2024)
 
-### DevSpeak Academy, Brazil
+### DevSpeak Academy, Brasil
 
 **Inglês com foco em TI** (Jan 2024 - Present)
