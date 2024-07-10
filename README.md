@@ -34,11 +34,11 @@ Desenvolver sistemas e aplicações web coesos, modernos, modulares e multiplata
 
 ### [Cresça Brasil (Uol Educação)](https://github.com/hugomarshall/me/blob/main/project-skills.md#2-senior-web-developer-at-cres%C3%A7a-brasil-owned-by-uol-education)
 
-**Programador Web III** (Maio 2013 - Fev 2014)
+**Programador Web III** (Mai 2013 - Fev 2014)
 
 ### StarCorp, Campinas, SP
 
-**Implementador Web Sênior I** (Jun 2012 - Dec 2012)
+**Implementador Web Sênior I** (Jun 2012 - Dez 2012)
 
 ### Câmara Municipal de Alfenas & Prefeitura Municipal de Alfenas, Alfenas-MG
 
