@@ -145,7 +145,7 @@ Essa primeira solução levou 6 meses para ser lançada e mais 6 meses para fina
 
 ---
 
-### 2. Senior Web Developer at Cresça Brasil (Owned by Uol Education)
+### 2. Senior Web Developer at Cresça Brasil (Adquirido pela Uol Educação)
 
 Como líder técnico neste projeto em específico, fiz parte da equipe de Pesquisa e Desenvolvimento e fui responsável por desenvolver vários sistemas importantes, incluindo:
 - Portal de Gerenciamento de Projetos (Interno): Desenvolvi um portal interno para gerenciar projetos, proporcionando uma plataforma eficiente para colaboração e progresso da equipe.
