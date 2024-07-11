@@ -147,17 +147,17 @@ Essa primeira solução levou 6 meses para ser lançada e mais 6 meses para fina
 
 ### 2. Senior Web Developer at Cresça Brasil (Owned by Uol Education)
 
-Como líder técnico na Cresça Brasil, você fez parte da equipe de Pesquisa e Desenvolvimento e foi responsável por desenvolver vários sistemas importantes, incluindo:
-- Portal de Gerenciamento de Projetos (Interno): Desenvolveu um portal interno para gerenciar projetos, proporcionando uma plataforma eficiente para a equipe acompanhar o progresso e colaborar.
-- Chatbox com SignalR para Telemarketing: Criou um chatbox usando SignalR para ser usado no sistema de telemarketing, melhorando a comunicação e interação com os clientes.
+Como líder técnico neste projeto em específico, fiz parte da equipe de Pesquisa e Desenvolvimento e fui responsável por desenvolver vários sistemas importantes, incluindo:
+- Portal de Gerenciamento de Projetos (Interno): Desenvolvi um portal interno para gerenciar projetos, proporcionando uma plataforma eficiente para colaboração e progresso da equipe.
+- Chatbox com SignalR para Telemarketing: Criei um chatbox usando SignalR para ser usado no sistema de telemarketing, melhorando a comunicação e interação com os clientes.
 
 
 >## Streaming de Vídeo Privado de Alta Disponibilidade com AWS
 >
->Esse projeto foi um dos seus maiores desafios. Você atuou como líder técnico e trabalhou em conjunto com um especialista em infraestrutura para criar uma solução que armazenasse cursos online e os disponibilizasse para os alunos.
+>Esse projeto foi um dos meus maiores desafios. Atuei como líder técnico e trabalhei em conjunto com um especialista em infraestrutura para criar uma solução que armazenasse cursos online e os disponibilizasse para os alunos.
 >O foco principal era a segurança e a prevenção de downloads não autorizados.
 >O sistema utilizava um player genérico que podia ser incorporado em qualquer página dos clientes, com sete camadas de segurança.
->O objetivo era dividir o fluxo de streaming em pequenos tamanhos de buffer e enviá-los ao cliente, tornando praticamente impossível o download dos arquivos.
+>O objetivo era dividir o fluxo de streaming em pequenos tamanhos de buffer e enviá-los ao cliente, tornando praticamente impossível o download completo dos arquivos.
 >
 >**- Back-end language:** C#;
 >
@@ -180,6 +180,8 @@ Como líder técnico na Cresça Brasil, você fez parte da equipe de Pesquisa e 
 ### 3. Desenvolvedor Full stack Sênior na Iterative
 
 A Iterative é uma Fábrica de Software em São Paulo e foi uma das primeiras empresas a adotar o trabalho remoto. Eu fui um dos funcionários que participou dessa mudança.
+
+Nela eu participei da equipe de food services que era um sistema focado na gestão de restaurantes. 
 
 >## Linked Gourmet (Serviços no ramo alimentício)
 >
