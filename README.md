@@ -8,7 +8,7 @@ Alfenas, Minas Gerais, Brasil
 
 Desenvolver sistemas e aplicações web coesos, modernos, modulares e multiplataforma, utilizando as melhores práticas e princípios.
 
-## [Habilidades](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md)
+## [Habilidades](https://github.com/hugomarshall/eu/projetos-habilidades.md)
 
 - **Linguagens de Programação**: C#, JavaScript, jQuery, HTML5, CSS3, Delphi
 - **Frameworks/Bibliotecas**: Blazor, Razor, Angular, AngularJS, Knockout, Bootstrap, Material, WPF
