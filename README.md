@@ -8,7 +8,7 @@ Alfenas, Minas Gerais, Brasil
 
 Desenvolver sistemas e aplicações web coesos, modernos, modulares e multiplataforma, utilizando as melhores práticas e princípios.
 
-## [Habilidades](https://github.com/hugomarshall/eu/projetos-habilidades.md)
+## [Habilidades](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md)
 
 - **Linguagens de Programação**: C#, JavaScript, jQuery, HTML5, CSS3, Delphi
 - **Frameworks/Bibliotecas**: Blazor, Razor, Angular, AngularJS, Knockout, Bootstrap, Material, WPF
@@ -28,11 +28,11 @@ Desenvolver sistemas e aplicações web coesos, modernos, modulares e multiplata
 **Proprietário/Prestação de serviços** (Fev 2014 - Presente)
 
 - Desenvolvedor Full Stack na Linx/Stone através da Locus (1 ano e 9 meses)
-- [Arquiteto/Desenvolvedor no Grupo Grão de Ouro (3 anos e 6 meses)](https://github.com/hugomarshall/me/blob/main/project-skills.md#1-architectdeveloper-at-gr%C3%A3o-de-ouro-group)
+- Arquiteto/Desenvolvedor no Grupo Grão de Ouro (3 anos e 6 meses) - [Nutrimax](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md#nutrimax) & [S2GO](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md#s2go)
 - Desenvolvedor Sênior na EasyComtec (USA) (11 meses)
-- [Desenvolvedor Sênior na Iterative (1 ano e 1 mês)](https://github.com/hugomarshall/me/blob/main/project-skills.md#3-senior-fullstack-developer-at-iterative)
+- [Desenvolvedor Sênior na Iterative (1 ano e 1 mês)](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md#3-desenvolvedor-full-stack-s%C3%AAnior-na-iterative)
 
-### [Cresça Brasil (Uol Educação)](https://github.com/hugomarshall/me/blob/main/project-skills.md#2-senior-web-developer-at-cres%C3%A7a-brasil-owned-by-uol-education)
+### [Cresça Brasil (Uol Educação)](https://github.com/hugomarshall/eu/blob/main/projetos-habilidades.md#2-senior-web-developer-at-cres%C3%A7a-brasil-owned-by-uol-education)
 
 **Programador Web III** (Mai 2013 - Fev 2014)
 
